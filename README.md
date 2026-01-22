@@ -1,29 +1,32 @@
-# 👋 Hi, I'm Kartik Bhamare  
+<h1 align="center">Hi 👋, I'm Kartik</h1>
 
-**Python Developer | Data Analysis | Machine Learning Enthusiast**
-
-I am a Python Developer focused on Data Analysis and Machine Learning. I enjoy working with data, building predictive models, and visualizing insights using Python libraries. Currently, I am also exploring web technologies to build clean and interactive applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Data+Analysis+%26+Machine+Learning;Aspiring+Data+Scientist&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔍 Interested in **Data Science & Machine Learning**
-- 📊 Hands-on experience with **NumPy, Pandas, Scikit-learn**
-- 📈 Data visualization using **Matplotlib & Seaborn**
+- 🔍 Python Developer focused on **Data Analysis & Machine Learning**
+- 📊 Experience with **NumPy, Pandas, Scikit-learn**
+- 📈 Data Visualization using **Matplotlib & Seaborn**
 - 🌱 Currently learning **HTML, CSS & JavaScript**
-- 🚀 Passionate about continuous learning and real-world projects
+- 🚀 Interested in solving real-world problems with data
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- Python  
-- HTML  
-- CSS  
-- JavaScript *(Learning)*  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
+</p>
 
-### 📚 Libraries & Frameworks
+### 📚 Libraries & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
 - NumPy  
 - Pandas  
 - Matplotlib  
@@ -31,9 +34,10 @@ I am a Python Developer focused on Data Analysis and Machine Learning. I enjoy w
 - Scikit-learn  
 
 ### 🧰 Tools
-- Git  
-- GitHub  
-- VS Code  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 - Google Colab  
 
 ---
@@ -41,40 +45,43 @@ I am a Python Developer focused on Data Analysis and Machine Learning. I enjoy w
 ## 📂 Projects
 
 ### 🔹 Insurance Premium Prediction
-Machine Learning project to predict insurance premiums using Python and Scikit-learn.  
+ML project to predict insurance premiums using Python and Scikit-learn.
 
-🔗 **Project Link:**  
-https://github.com/Bhamare04/Data-Science-ML-Project  
+🔗 **Project:**  
+👉 https://github.com/Bhamare04/Data-Science-ML-Project
 
 ---
 
 ### 🔹 Employee Churn Prediction
-Predicting employee attrition using machine learning techniques.  
-*(Coming Soon)*
+Predicting employee attrition using ML techniques.  
+*(Working)*
 
 ---
 
 ### 🔹 Basic ML Models
 Implementation of core machine learning algorithms.  
-*(Coming Soon)*
+*(Working)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhamare04&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhamare04&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhamare04&theme=radical" width="48%" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhamare04&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhamare04&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhamare04&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
-- 📧 **Email:** kartikbhamare@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/kartik-bhamare  
-- 🌐 **Portfolio:** https://bhamare04.github.io/portfolio/
+- 📧 Email: **kartikbhamare@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/kartik-bhamare
+- 🌐 Portfolio: https://bhamare04.github.io/portfolio/
 
 ---
 
-⭐ *If you find my work interesting, feel free to star my repositories!*
+⭐ **If you like my work, don’t forget to star my repositories!**
