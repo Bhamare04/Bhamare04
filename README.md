@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
+<h1 align="center">Hi 👋, I'm Kartik </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Data+Analysis+%26+Machine+Learning;Aspiring+Data+Scientist&center=true&width=500&height=45">
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -31,14 +30,20 @@
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Scikit-learn  
+- Scikit-learn
+
+  
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
 </p>
 
-- Google Colab  
 
 ---
 
@@ -54,13 +59,13 @@ ML project to predict insurance premiums using Python and Scikit-learn.
 
 ### 🔹 Employee Churn Prediction
 Predicting employee attrition using ML techniques.  
-*(Working)*
+*(Coming Soon)*
 
 ---
 
 ### 🔹 Basic ML Models
 Implementation of core machine learning algorithms.  
-*(Working)*
+*(Coming Soon)*
 
 ---
 
