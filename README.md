@@ -57,15 +57,16 @@ ML project to predict insurance premiums using Python and Scikit-learn.
 
 ---
 
-### 🔹 Employee Churn Prediction
-Predicting employee attrition using ML techniques.  
-*(Coming Soon)*
+### 🔹 Employee / Customer Churn Prediction
+Machine Learning project to predict customer churn using real-world telecom data.
+
+🔗 **Project:**  
+👉 https://github.com/Bhamare04/Customer-Churn-Prediction
 
 ---
 
-### 🔹 Basic ML Models
-Implementation of core machine learning algorithms.  
-*(Coming Soon)*
+### 🔹 Stock_Price_Prediction 
+*(currently working)*
 
 ---
 
