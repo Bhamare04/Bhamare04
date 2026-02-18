@@ -66,7 +66,7 @@ Machine Learning project to predict customer churn using real-world telecom data
 ---
 
 ### 🔹 Stock_Price_Prediction 
-*(currently working)*
+👉 https://github.com/Bhamare04/Stock-Price-Prediction
 
 ---
 
